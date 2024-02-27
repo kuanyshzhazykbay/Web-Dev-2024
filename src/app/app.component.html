@@ -1,0 +1,19 @@
+<header>
+  <h1>Shop</h1>
+  </header>
+  
+  <main>
+    <div class="container">
+  
+      <div className="container" *ngFor="let itemList of itemLists; let i = index">
+        <button className= "btnlist" type="button" name="button" (click) = "showCategory(i)">{{itemList.name}}</button>
+        <app-category   [itemList] = 'itemList' *ngIf = 'itemList.isVisible'></app-category>
+      </div>
+  
+    </div>
+  
+  </main>
+  
+  
+  <footer></footer>
+  
