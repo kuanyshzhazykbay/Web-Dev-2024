@@ -23,7 +23,7 @@ export class AppComponent {
     new Item(
       "Hands Free Portable Neck Fan - Rechargeable Mini USB Personal Fan Battery Operated with 3 Level Air Flow, 7 LED Lights for Home Office Travel Indoor Outdoor (Black+Blue)",
       "【Stay COOL Anywhere Anytime】Feeling hot? You need to go outside but also have no hands to hold regular portable fan? Why not always stay cool with this wearable neck fan? You can hang the fan around your neck and take it everywhere, will not feel tired or uncomfortable.Say goodbye to hot flashes, sweating, and flushing.",
-    4.7,
+    4.6,
     "https://www.amazon.com/Hands-Free-Portable-Neck-Fan/dp/B07WSZ2TM8/ref=sr_1_2?crid=3QVUIIFWTGUCG&dchild=1&keywords=gadgets&qid=1614776811&sprefix=gad%2Caps%2C406&sr=8-2",
     ["https://images-na.ssl-images-amazon.com/images/I/71FFM9Hk%2BdL._AC_SL1500_.jpg",
       "https://images-na.ssl-images-amazon.com/images/I/71wCUx-FRzL._AC_SL1500_.jpg",
