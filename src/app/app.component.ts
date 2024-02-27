@@ -33,7 +33,7 @@ export class AppComponent {
     new Item(
       "3D Illusion Platform Night Lighting Touch Botton 7 Color Change Decor LED Lamp",
       "Powered by universal USB cable which allow you to light up the fantacy light more easily",
-      5.0,
+      4.9,
       "https://www.amazon.com/Illusion-Platform-Lighting-Botton-Change/dp/B01FJ6ZHA2/ref=sr_1_3?crid=3QVUIIFWTGUCG&dchild=1&keywords=gadgets&qid=1614776811&sprefix=gad%2Caps%2C406&sr=8-3",
       ["https://images-na.ssl-images-amazon.com/images/I/81NLg%2BdL1ZL._AC_SL1200_.jpg",
                 "https://images-na.ssl-images-amazon.com/images/I/81l6fRMd13L._AC_SL1200_.jpg",
